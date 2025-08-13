@@ -40,3 +40,11 @@
 
 ## Feeding Technique
 - **Feed Type:** Inset Microstrip Feed (with gap and distance parameters for tuning)
+
+ ## S-Parameters
+
+<p align="center">
+  <img src="images/s_parameters.PNG" alt="S-Parameters [Magnitude in dB]" width="600">
+</p>
+
+<p align="center"><b>Figure:</b> S-Parameters [Magnitude in dB].</p>
